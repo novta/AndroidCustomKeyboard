@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndroidCustomKeyboard.iml" filepath="$PROJECT_DIR$/AndroidCustomKeyboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RusinKeyboard.iml" filepath="$PROJECT_DIR$/RusinKeyboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

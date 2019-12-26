@@ -11,8 +11,8 @@
         android:theme="@style/AppTheme">
         <service
             android:name=".EDMTKeyboard"
-            android:label="EDMTKeyboard"
-           android:permission="android.permission.BIND_INPUT_METHOD"
+            android:label="Rusyn Keyboard"
+            android:permission="android.permission.BIND_INPUT_METHOD"
             >
             <meta-data android:name="android.view.im" android:resource="@xml/method"/>
             <intent-filter>
